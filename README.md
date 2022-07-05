@@ -1,6 +1,6 @@
-# fkliniku
+# Frontdesk KLINIKu
 
-A new Flutter project.
+A simple frontdesk kliniku
 
 ## Getting Started
 
